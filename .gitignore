@@ -1,2 +1,4 @@
 #Ignoring all cluster data files
 *.cl*
+*.id*
+.ipynb_checkpoints/
