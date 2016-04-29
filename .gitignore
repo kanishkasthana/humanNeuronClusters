@@ -2,3 +2,4 @@
 *.cl*
 *.id*
 .ipynb_checkpoints/
+*.jar
